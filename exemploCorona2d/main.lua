@@ -6,5 +6,6 @@
 
 -- Your code here
 
-nome = "Ivan"  
-print("oi mundo " .. nome)
+nome = "ivan dutra goetze"
+
+print("oi mundo: " .. nome)
