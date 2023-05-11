@@ -9,3 +9,5 @@
 nome = "ivan dutra goetze - curso"
 
 print("oi mundo: " .. nome)
+
+print("fim")
