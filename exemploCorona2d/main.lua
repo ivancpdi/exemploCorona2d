@@ -6,4 +6,5 @@
 
 -- Your code here
 
-print("oi mundo")
+nome = "Ivan"  
+print("oi mundo " .. nome)
