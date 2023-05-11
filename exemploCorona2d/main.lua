@@ -6,8 +6,6 @@
 
 -- Your code here
 
-nome = "ivan dutra goetze - curso"
+nome = "ivan dutra goetze"
 
 print("oi mundo: " .. nome)
-
-print("fim")
